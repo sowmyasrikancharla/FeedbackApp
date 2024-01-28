@@ -1,0 +1,87 @@
+/* Write your CSS code here. */
+/* Write your CSS code here. */
+@media (min-width: 768px) {
+  .sub-con {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    height: auto;
+  }
+  .heart {
+    height: 90px;
+    width: 100px;
+  }
+  p {
+    text-align: center;
+    color: #1e293b;
+  }
+  .emoji-set {
+    height: 80px;
+    width: 80px;
+    margin: 20px;
+  }
+
+  .name {
+    color: #0f172a;
+    font-size: 12px;
+    padding: 8px;
+    text-align: center;
+  }
+  .emoji-con {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .head {
+    font-size: 22px;
+    text-align: center;
+  }
+}
+/* Write your CSS code here. */
+@media (max-width: 768px) {
+  .sub-con {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    height: auto;
+  }
+  .heart {
+    height: 45px;
+    width: 51px;
+  }
+  p {
+    text-align: center;
+    color: #1e293b;
+  }
+  .emoji-set {
+    height: 40px;
+    width: 40px;
+    margin: 20px;
+  }
+
+  .name {
+    color: #0f172a;
+    font-size: 12px;
+    padding: 8px;
+    text-align: center;
+  }
+  .emoji-con {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .head {
+    font-size: 18px;
+    text-align: center;
+  }
+}
