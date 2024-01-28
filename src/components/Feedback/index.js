@@ -1,4 +1,5 @@
 // Write your React code here.
+<<<<<<< HEAD
 // Write your React code here.
 // eslint-disable-next-line max-classes-per-file
 import {Component} from 'react'
@@ -33,3 +34,5 @@ class Feedback extends Component {
 }
 
 export default Feedback
+=======
+>>>>>>> 62740eb6a027cc8679a551960b3177bcffc8f3a2
